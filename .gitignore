@@ -1,0 +1,25 @@
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+secrets/
+
+# Codex and generation caches
+.codex/
+cache/
+generated/
+temp/
+tmp/
+
+# Logs and local editor files
+*.log
+.idea/
+.vscode/
+*.user
+*.suo
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
