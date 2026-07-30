@@ -8,10 +8,11 @@ Identity: same pet in every frame: Preserve the approved young adult character i
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `3d-toy`: Stylized 3D toy mascot with smooth rounded forms, simple materials, clear silhouette, and no photoreal complexity. User style notes: Ultra-clean high-definition stylized 3D game-avatar render with realistic facial likeness and premium materials, slightly enlarged head and compact proportions for 192x208 readability, soft natural skin and detailed hair, clearly non-pixel art..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
-State action: Working loop: focused active-task processing, thinking, typing, scanning, or effortful concentration; not literal foot-running, jogging, sprinting, treadmill motion, raised knees, long steps, pumping arms, or directional travel.
+State action: Clear coding/work loop: focused typing and scanning on one compact silver-gray portable keyboard or terminal held at waist height; not literal foot-running, jogging, sprinting, treadmill motion, raised knees, long steps, pumping arms, or directional travel.
 
 State requirements:
-- Show the pet actively working or processing, as if running a task: focused posture, busy hands or paws, purposeful bobbing, thinking motion, tool or prop motion only if already part of the pet identity, or other non-locomotion activity.
+- Show focused posture, busy hands, small gaze/head changes, purposeful bobbing, and a consistent portable keyboard/terminal so the working state is unmistakable at pet size.
+- The device must remain consistent across all six frames, have no logo, code, text, symbols, or visible UI, and must not cover the face.
 - Do not show literal foot-running, jogging, sprinting, treadmill motion, raised knees, long steps, pumping arms, directional travel, speed lines, dust clouds, floor shadows, motion trails, or detached motion effects.
 
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.

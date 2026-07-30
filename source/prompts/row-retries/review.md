@@ -4,10 +4,10 @@ Use the attached canonical base for identity and the layout guide only for spaci
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
-Action: Ready-review loop: focused inspection of completed output with lean, blink, narrowed eyes, head tilt, or paw pose.
+Action: Peeking review loop: neutral inspection, strong left lean with a hand shading the eyes, close narrowed-eye check, head tilt, strong right lean, and playful confirmation.
 
 State requirements:
-- Show review through lean, blink, narrowed eyes, head tilt, or paw/hand position.
-- Do not add magnifying glasses, papers, code, UI, punctuation, symbols, or other new props unless they already exist in the base pet identity.
+- Make the left/right peeking and inspection gestures visibly different while keeping every frame full-body.
+- Do not add magnifying glasses, panels, papers, code, UI, punctuation, symbols, or other new props.
 
 One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #00FFFF colors in the pet.
