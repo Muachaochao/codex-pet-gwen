@@ -4,11 +4,11 @@ Use the attached canonical base for identity and the layout guide only for spaci
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
-Action: Blocked/failed loop: slumped or deflated reaction with sad or closed eyes.
+Action: Strong error/failed loop: startled, shoulders droop, head lowers, crouches, hugs knees with a pout, closes eyes in frustration, rises, and recovers.
 
 State requirements:
-- Show failure through slumped pose, drooping ears/limbs, closed or sad eyes, and lower body position.
-- Tears, small smoke puffs, or tiny stars are allowed only if attached to or overlapping the pet silhouette and kept inside the same frame slot.
-- Do not draw red X marks, floating symbols, detached stars, separated smoke clouds, falling tear drops, dust, or other loose effects.
+- Use all eight frames for a continuous startled-to-hugging-knees-to-recovery sequence.
+- Keep crouched and seated poses fully inside their slots at a stable apparent scale.
+- Do not draw tears, red X marks, floating symbols, stars, smoke clouds, dust, or other loose effects.
 
 One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #00FFFF colors in the pet.

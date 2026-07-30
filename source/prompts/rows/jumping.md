@@ -8,10 +8,11 @@ Identity: same pet in every frame: Preserve the approved young adult character i
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `3d-toy`: Stylized 3D toy mascot with smooth rounded forms, simple materials, clear silhouette, and no photoreal complexity. User style notes: Ultra-clean high-definition stylized 3D game-avatar render with realistic facial likeness and premium materials, slightly enlarged head and compact proportions for 192x208 readability, soft natural skin and detailed hair, clearly non-pixel art..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
-State action: Hover jump loop: anticipation, lift, airborne peak, descent, and settle through body height.
+State action: Success-celebration jump loop: crouched anticipation, lift with rising arms, airborne peak with both fists overhead and a joyful smile, descent with open arms, and an upright victory landing.
 
 State requirements:
-- Show the jump through pose and vertical body position only: anticipation, lift, airborne peak, descent, settle.
+- Use the five frames as: crouched anticipation, lift-off, highest both-arms-up celebration, descent, and cheerful landed victory pose.
+- Make the success emotion and vertical jump trajectory readable at 192x208 without adding detached effects.
 - Do not draw ground shadows, contact shadows, drop shadows, oval shadows, landing marks, dust, smears, bounce pads, or motion marks under the pet.
 - Keep the background outside the pet perfectly flat chroma key with no darker key-colored patches.
 

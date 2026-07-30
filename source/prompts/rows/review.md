@@ -8,10 +8,10 @@ Identity: same pet in every frame: Preserve the approved young adult character i
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `3d-toy`: Stylized 3D toy mascot with smooth rounded forms, simple materials, clear silhouette, and no photoreal complexity. User style notes: Ultra-clean high-definition stylized 3D game-avatar render with realistic facial likeness and premium materials, slightly enlarged head and compact proportions for 192x208 readability, soft natural skin and detailed hair, clearly non-pixel art..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
-State action: Ready-review loop: focused inspection of completed output with lean, blink, narrowed eyes, head tilt, or paw pose.
+State action: Peeking review loop matching the desktop pet: neutral inspection, strong left lean with a hand shading the eyes, close narrowed-eye check, head tilt, strong right lean, and a playful confirmation pose.
 
 State requirements:
-- Show review through lean, blink, narrowed eyes, head tilt, or paw/hand position.
-- Do not add magnifying glasses, papers, code, UI, punctuation, symbols, or other new props unless they already exist in the base pet identity.
+- Make the left/right peeking and inspection gestures visibly different, while keeping every frame full-body and uncropped.
+- Do not add magnifying glasses, panels, papers, code, UI, punctuation, symbols, or other new props.
 
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.

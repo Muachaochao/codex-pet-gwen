@@ -4,10 +4,11 @@ Use the attached canonical base for identity and the layout guide only for spaci
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
-Action: Hover jump loop: anticipation, lift, airborne peak, descent, and settle through body height.
+Action: Success-celebration jump loop: crouched anticipation, lift with rising arms, airborne peak with both fists overhead and a joyful smile, descent with open arms, and an upright victory landing.
 
 State requirements:
-- Show the jump through pose and vertical body position only: anticipation, lift, airborne peak, descent, settle.
+- Use the five frames as: crouched anticipation, lift-off, highest both-arms-up celebration, descent, and cheerful landed victory pose.
+- Make the success emotion and vertical jump trajectory readable at 192x208 without adding detached effects.
 - Do not draw ground shadows, contact shadows, drop shadows, oval shadows, landing marks, dust, smears, bounce pads, or motion marks under the pet.
 - Keep the background outside the pet perfectly flat chroma key with no darker key-colored patches.
 

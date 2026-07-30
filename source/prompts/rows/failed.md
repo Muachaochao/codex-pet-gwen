@@ -8,11 +8,11 @@ Identity: same pet in every frame: Preserve the approved young adult character i
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `3d-toy`: Stylized 3D toy mascot with smooth rounded forms, simple materials, clear silhouette, and no photoreal complexity. User style notes: Ultra-clean high-definition stylized 3D game-avatar render with realistic facial likeness and premium materials, slightly enlarged head and compact proportions for 192x208 readability, soft natural skin and detailed hair, clearly non-pixel art..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
-State action: Blocked/failed loop: slumped or deflated reaction with sad or closed eyes.
+State action: Strong error/failed loop matching the desktop pet: startled, shoulders droop, head lowers, crouches, hugs knees with a pout, closes eyes in frustration, rises, and recovers.
 
 State requirements:
-- Show failure through slumped pose, drooping ears/limbs, closed or sad eyes, and lower body position.
-- Tears, small smoke puffs, or tiny stars are allowed only if attached to or overlapping the pet silhouette and kept inside the same frame slot.
-- Do not draw red X marks, floating symbols, detached stars, separated smoke clouds, falling tear drops, dust, or other loose effects.
+- Use all eight frames for a continuous startled-to-hugging-knees-to-recovery sequence.
+- Keep the crouched and seated poses fully inside their slots with a stable apparent character scale.
+- Do not draw tears, red X marks, floating symbols, stars, smoke clouds, dust, or other loose effects.
 
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
