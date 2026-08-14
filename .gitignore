@@ -11,6 +11,8 @@ cache/
 generated/
 temp/
 tmp/
+__pycache__/
+*.py[cod]
 
 # Logs and local editor files
 *.log
